@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cfa72ff7.css",
+    "main.js": "/static/js/main.40d0217e.js",
+    "static/media/CirceRounded-Regular.ttf": "/static/media/CirceRounded-Regular.a7c8bb4eca1a00e18a01.ttf",
+    "static/media/password_visible_icon.png": "/static/media/password_visible_icon.120db7d45cafe87f784d.png",
+    "static/media/Sales1.png": "/static/media/Sales1.a24f4099873d3744bcdb.png",
+    "static/media/timetable_logo_white.svg": "/static/media/timetable_logo_white.a452dc3d87585fe0a8b4ddf3aefafe1c.svg",
+    "static/media/settings_logo_blue.svg": "/static/media/settings_logo_blue.f6cecc5fef4b0fdde5a816580271c165.svg",
+    "static/media/timetable_logo_blue.svg": "/static/media/timetable_logo_blue.ed3f1132e2f18f5b271b32eb2e4243a9.svg",
+    "static/media/home_logo_white.svg": "/static/media/home_logo_white.5e8accecc3342b4d3a1f73823eecb62c.svg",
+    "static/media/lib_logo_blue.svg": "/static/media/lib_logo_blue.6e1ece7897f8da55e18c4c35c092d468.svg",
+    "static/media/trainning_logo_blue.svg": "/static/media/trainning_logo_blue.43b69ffb787599c37aae9e289d9844cd.svg",
+    "static/media/home_logo_blue.svg": "/static/media/home_logo_blue.84852fbc798e93e07431eb6584ad7c4a.svg",
+    "static/media/achivment_logo_blue.svg": "/static/media/achivment_logo_blue.1690bcb9d341a49cc13a14e5757dbb79.svg",
+    "static/media/questions_logo_blue.svg": "/static/media/questions_logo_blue.a4154f8b3ca7fd1ecfa3ff12dba205f1.svg",
+    "static/media/pay_logo_blue.svg": "/static/media/pay_logo_blue.8031961cbc8296fd5214adc8838886af.svg",
+    "static/media/connection_settings_blue.svg": "/static/media/connection_settings_blue.a9472b2537bc21f8018e517eb419753a.svg",
+    "index.html": "/index.html",
+    "main.cfa72ff7.css.map": "/static/css/main.cfa72ff7.css.map",
+    "main.40d0217e.js.map": "/static/js/main.40d0217e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfa72ff7.css",
+    "static/js/main.40d0217e.js"
+  ]
+}
